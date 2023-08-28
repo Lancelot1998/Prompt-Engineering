@@ -5,20 +5,20 @@
 ### 1. The collections of mainstream PFMs in different fields:
 #### Text-to-image generation
 
--Stable Diffusion: https://stability.ai/stablediffusion
+- Stable Diffusion: https://stability.ai/stablediffusion
 
--Midjourney: https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+- Midjourney: https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
 
--DALLE 2: https://openai.com/dall-e-2
+- DALLE 2: https://openai.com/dall-e-2
 
 #### Text generation
 
--ChatGPT: https://openai.com/blog/chatgpt
+- ChatGPT: https://openai.com/blog/chatgpt
 
 #### Text-to-3D generation
 
--DreamFusion: https://dreamfusion3d.github.io/
+- DreamFusion: https://dreamfusion3d.github.io/
 
 #### Image Segmentation
 
--SAM: https://segment-anything.com/
+- SAM: https://segment-anything.com/
