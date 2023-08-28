@@ -22,3 +22,6 @@
 #### Image Segmentation
 
 - SAM: https://segment-anything.com/
+
+### 2. The log for training ChatGPT-empowered prompt optimizer:
+Please refer to the attached file
