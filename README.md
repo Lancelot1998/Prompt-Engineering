@@ -33,4 +33,4 @@
 - ControlNet: https://stablediffusionweb.com/ControlNet
 
 ### 2. The log for training ChatGPT-empowered prompt optimizer:
-Please refer to the attached file
+Please refer to the attached file and please watch this video: https://www.youtube.com/watch?v=oxW14OBuA8M
