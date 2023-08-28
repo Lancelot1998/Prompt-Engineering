@@ -4,8 +4,15 @@
 
 ### 1. The collections of mainstream PFMs in different fields:
 ** Text-to-image generation**
-Stable Diffusion:
-Midjourney:
-DALLE 2
+-Stable Diffusion:
+-Midjourney:
+-DALLE 2
 
-** 
+** Text generation**
+-ChatGPT
+
+** Text-to-3D generation**
+-DreamFusion
+
+** Image Segmentation**
+-SAM
