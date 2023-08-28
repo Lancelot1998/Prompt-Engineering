@@ -11,6 +11,8 @@
 
 - DALLE 2: https://openai.com/dall-e-2
 
+- StyleGAN: https://github.com/NVlabs/stylegan
+
 #### Text generation
 
 - ChatGPT: https://openai.com/blog/chatgpt
@@ -22,6 +24,13 @@
 #### Image Segmentation
 
 - SAM: https://segment-anything.com/
+
+#### Others
+- CLIP: https://github.com/openai/CLIP
+
+- Make-a-Vedio: https://makeavideo.studio/
+
+- ControlNet: https://stablediffusionweb.com/ControlNet
 
 ### 2. The log for training ChatGPT-empowered prompt optimizer:
 Please refer to the attached file
